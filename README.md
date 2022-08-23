@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cyrilalinsub, a 3rd year Electrical & Computer Engineering student at UT Austin!
+- 👋 Hi, I’m @cyrilalinsub, a 4th year Electrical & Computer Engineering student at UT Austin!
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning frontend dev with React
 - 📫 How to reach me:
